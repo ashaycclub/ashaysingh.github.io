@@ -1,2 +1,2 @@
 # ashaycclub.github.io
-A Basic Webpage
+A Basic Website
